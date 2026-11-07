@@ -15,6 +15,7 @@ This checkout is for **using** the studio: installing, updating, running and dia
 - Do not remove or change the «B Studio» name, its icon, the guide, or the «by Bassam» credit.
 - Keep every byte as published: `.gitattributes` sets `* -text` because CRLF conversion breaks the bash scripts and the `manifest.json` hashes.
 - The only things Claude edits are the **user's own projects**, and only through the tool (`studio.sh edit`), never by hand.
+- Commit messages are one line: a subject line only, with no body.
 
 ## How to operate it
 
