@@ -1,0 +1,1 @@
+- Commit messages are one line: a subject line only, with no body.
